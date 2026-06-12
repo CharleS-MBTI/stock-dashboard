@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "data": [
+    {"code":"600586","name":"金晶科技","market":"sh","latestPrice":7.23,"changePct":3.14,"changeAmount":0.22,"turnoverRate":2.87,"volume":187414,"amount":88092215,"volumeRatio":0.73,"amplitude":5.12,"totalMarketCap":62300000000,"floatMarketCap":37800000000,"ddx":0.087,"ddy":0.234,"ddz":15.67,"tongChiRate1":2.34,"tongChiRate5":1.87,"tongChiRate10":0.95,"tongChiRate20":-0.42},
+    {"code":"300468","name":"四方精创","market":"sz","latestPrice":22.85,"changePct":5.67,"changeAmount":1.23,"turnoverRate":8.92,"volume":165551,"amount":378365287,"volumeRatio":1.87,"amplitude":9.45,"totalMarketCap":13700000000,"floatMarketCap":8900000000,"ddx":0.234,"ddy":0.567,"ddz":28.45,"tongChiRate1":4.56,"tongChiRate5":3.21,"tongChiRate10":2.15,"tongChiRate20":1.08},
+    {"code":"603108","name":"润达医疗","market":"sh","latestPrice":12.56,"changePct":-1.88,"changeAmount":-0.24,"turnoverRate":3.45,"volume":127806,"amount":131601859,"volumeRatio":1.11,"amplitude":4.23,"totalMarketCap":28500000000,"floatMarketCap":15200000000,"ddx":-0.045,"ddy":-0.089,"ddz":-8.23,"tongChiRate1":-1.52,"tongChiRate5":-0.87,"tongChiRate10":0.34,"tongChiRate20":0.78},
+    {"code":"002475","name":"立讯精密","market":"sz","latestPrice":38.92,"changePct":1.23,"changeAmount":0.47,"turnoverRate":1.56,"volume":805842,"amount":5344397847,"volumeRatio":0.92,"amplitude":2.87,"totalMarketCap":278000000000,"floatMarketCap":189000000000,"ddx":0.112,"ddy":0.198,"ddz":12.34,"tongChiRate1":1.89,"tongChiRate5":2.45,"tongChiRate10":1.67,"tongChiRate20":0.89},
+    {"code":"000657","name":"中钨高新","market":"sz","latestPrice":7.98,"changePct":8.15,"changeAmount":0.60,"turnoverRate":12.34,"volume":1089012,"amount":8694080043,"volumeRatio":2.22,"amplitude":11.23,"totalMarketCap":15600000000,"floatMarketCap":9800000000,"ddx":0.345,"ddy":0.678,"ddz":35.67,"tongChiRate1":5.67,"tongChiRate5":4.23,"tongChiRate10":2.89,"tongChiRate20":1.45},
+    {"code":"300953","name":"震裕科技","market":"sz","latestPrice":56.78,"changePct":-2.34,"changeAmount":-1.36,"turnoverRate":4.56,"volume":51342,"amount":727500390,"volumeRatio":1.34,"amplitude":6.78,"totalMarketCap":17000000000,"floatMarketCap":6800000000,"ddx":-0.123,"ddy":-0.256,"ddz":-15.89,"tongChiRate1":-2.12,"tongChiRate5":-1.45,"tongChiRate10":0.12,"tongChiRate20":0.56},
+    {"code":"002261","name":"拓维信息","market":"sz","latestPrice":18.34,"changePct":4.56,"changeAmount":0.80,"turnoverRate":6.78,"volume":388075,"amount":1133673036,"volumeRatio":1.29,"amplitude":7.89,"totalMarketCap":22600000000,"floatMarketCap":13400000000,"ddx":0.178,"ddy":0.345,"ddz":22.34,"tongChiRate1":3.45,"tongChiRate5":2.78,"tongChiRate10":1.56,"tongChiRate20":0.34},
+    {"code":"002703","name":"浙江世宝","market":"sz","latestPrice":10.45,"changePct":-0.95,"changeAmount":-0.10,"turnoverRate":2.34,"volume":128540,"amount":199425988,"volumeRatio":0.76,"amplitude":3.45,"totalMarketCap":12800000000,"floatMarketCap":7500000000,"ddx":-0.034,"ddy":-0.067,"ddz":-5.67,"tongChiRate1":-0.89,"tongChiRate5":0.34,"tongChiRate10":0.78,"tongChiRate20":1.12},
+    {"code":"002565","name":"顺灏股份","market":"sz","latestPrice":15.67,"changePct":2.89,"changeAmount":0.44,"turnoverRate":5.67,"volume":474395,"amount":669091624,"volumeRatio":0.91,"amplitude":6.34,"totalMarketCap":19500000000,"floatMarketCap":11200000000,"ddx":0.098,"ddy":0.187,"ddz":18.45,"tongChiRate1":2.67,"tongChiRate5":1.98,"tongChiRate10":1.23,"tongChiRate20":0.67}
+  ],
+  "cached": false,
+  "updatedAt": 1749705600000,
+  "warning": "静态示例数据 · 非实时行情"
+}
